@@ -1,0 +1,31 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "^16.7.0",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.3"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohjag/React_Snake.git"
+  },
+  "author": "Jagadeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohjag/React_Snake/issues"
+  },
+  "homepage": "https://github.com/mohjag/React_Snake#readme"
+}
